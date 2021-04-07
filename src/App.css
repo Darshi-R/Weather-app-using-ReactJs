@@ -1,4 +1,5 @@
 .App {
+  font-family: sans-serif;
   text-align: center;
 }
 
@@ -36,3 +37,23 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #aa5670;
+  /* background-image: url("images/unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: auto; */
+}
+
+ul {
+  list-style: none;
+}
+
+/* img {
+  width: 250px;
+  height: 300px;
+  object-fit: cover;
+} */
